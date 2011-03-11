@@ -39,9 +39,9 @@ PRODUCT_PACKAGES += \
     overlay.tegra \
     lights.tegra \
     sensors.tegra \
+    audiofix.harmony \
     libreference-ril \
-    libreference-cdma-sms \
-    audiofix
+    libreference-cdma-sms
 
 # Use MDPI artwork
 PRODUCT_LOCALES += mdpi
